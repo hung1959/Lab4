@@ -26,5 +26,5 @@ And next, I have to create the conntrollers and views with each entity class usi
 ![alt text](https://github.com/hung1959/Lab4/blob/master/ContosoUniversity/Images/addstudentcontroller.PNG) </br>
 Now, let's see the result. </br></br>
 ![alt text](https://github.com/hung1959/Lab4/blob/master/ContosoUniversity/Images/result.gif) </br>
-Finally, I depoyed this web application on Azure. And this is the result:
+Finally, I depoyed this web application on Azure. And this is the result: </br></br>
 ![alt text](https://github.com/hung1959/Lab4/blob/master/ContosoUniversity/Images/resultazure.gif) </br>
