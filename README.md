@@ -10,7 +10,7 @@ And I also configure again the homepage index in "Views\Home\Index.cshtml": </br
 ![alt text](https://github.com/hung1959/Lab4/blob/master/ContosoUniversity/Images/setupindex.PNG) </br></br>
 Next, I installed Install Entity Framework 6 with the command: 'Install-Package EntityFramework' </br>
 After that, I created the entity classes for the application: </br>
-Course class:</br> ![alt text](https://github.com/hung1959/Lab4/blob/master/ContosoUniversity/Images/courseclass.PNG) </br></br>
+Course class:</br></br> ![alt text](https://github.com/hung1959/Lab4/blob/master/ContosoUniversity/Images/courseclass.PNG) </br></br>
 Enrollmentclass:</br></br> ![alt text](https://github.com/hung1959/Lab4/blob/master/ContosoUniversity/Images/enrollmentclass.PNG) </br></br>
 Studentclass:</br></br> ![alt text](https://github.com/hung1959/Lab4/blob/master/ContosoUniversity/Images/studentclass.PNG) </br></br>
 Next, I created the database context by adding a new folder named DAL (Data Access Layer) and add a new class in there named SchoolContext.cs with the following code: </br></br>
