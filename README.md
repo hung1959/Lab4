@@ -3,7 +3,7 @@ In the previous lab, I had already create a web application creating databasse f
 This lab will show how to build the Contoso University sample application. The sample application is a simple university website. With it, users can view and update student, course, and instructor information.
 ## Body
 In this lab, I used Visual Studio 2019 t create an MVC web app. </br>
-!https://github.com/hung1959/Lab4/blob/master/ContosoUniversity/Images/appcreate.PNG </br>
+![alt text](https://github.com/hung1959/Lab4/blob/master/ContosoUniversity/Images/appcreate.PNG) </br>
 Then, I set up the site style in the _Layout.cshtml_ file with the path is: "Views\Shared\_Layout.cshtml" and make some changes: </br>
 !https://github.com/hung1959/Lab4/blob/master/ContosoUniversity/Images/setupstyle.PNG </br>
 And I also configure again the homepage index in "Views\Home\Index.cshtml": </br>
